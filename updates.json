@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/Soufi54/____Releases-BW____/releases/download/win32-x64-prod-v0.0.69",
-    "install": "https://github.com/Soufi54/____Releases-BW____/releases/download/win32-x64-prod-v0.0.69/BackWatcher.Setup.0.0.69.exe",
-    "version": "0.0.69"
+    "update": "https://github.com/Soufi54/____Releases-BW____/releases/download/win32-x64-prod-v0.0.70",
+    "install": "https://github.com/Soufi54/____Releases-BW____/releases/download/win32-x64-prod-v0.0.70/BackWatcher.Setup.0.0.70.exe",
+    "version": "0.0.70"
   }
 }
